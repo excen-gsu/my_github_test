@@ -13,7 +13,7 @@ from otree.api import (
 
 
 doc = """
-This is my App!!!
+Is this an improvement?
 """
 
 
